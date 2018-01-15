@@ -6,7 +6,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 https://andrewgribben.github.io/microgriblog/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://andrewgribben.github.io/microgriblog/"
 
 # Assets
 #
