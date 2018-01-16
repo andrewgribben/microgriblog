@@ -1,8 +1,6 @@
 ---
 ID: 10566
-post_title: >
-  Ace — an accessibility conformance
-  checking tool for EPUB 3 publications
+post_title: ""
 author: grib
 post_excerpt: >
   Announcing Ace Beta Release | Inclusive
