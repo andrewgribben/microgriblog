@@ -1,6 +1,6 @@
 ---
 ID: 10564
-post_title: Everything is too complicated
+post_title: ""
 author: grib
 post_excerpt: >
   Everything is too complicatedEverything
