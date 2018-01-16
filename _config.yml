@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 https://andrewgribben.github.io/microgriblog/
+url:                 https://grib.co
 paginate:            1
-baseurl:             "https://andrewgribben.github.io/microgriblog/"
+baseurl:             ""
 
 # Assets
 #
@@ -24,9 +24,11 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://andrewgribben.github.io/microgriblog/
+  repo:              http://grib.co
 
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+theme: jekyll-theme-minimal
