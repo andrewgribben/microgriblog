@@ -12,15 +12,7 @@ permalink: >
 published: true
 post_date: 2017-10-18 10:25:26
 ---
-<blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true">
-  <p>
-    The accessibility error scanner we use at GitHub for dev and production is now open-source! 🙌 props to <a href="http://twitter.com/muanchiou"  title="Twitter profile for @muanchiou">@muanchiou</a> <a rel="nofollow" href="https://t.co/ggr7ELGvMg">https://t.co/ggr7ELGvMg</a>
-  </p>
-  
-  <p>
-     — <a href="https://twitter.com/broccolini/status/920589927443771392">@broccolini</a>
-  </p>
-</blockquote>
+> The accessibility error scanner we use at GitHub for dev and production is now open-source! 🙌 props to @muanchiou https://t.co/ggr7ELGvMg
 
 Seems like the floodgates are starting to open for A11Y testing tools. This can only be a good thing!
 
